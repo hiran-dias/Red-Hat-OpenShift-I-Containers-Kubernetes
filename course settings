@@ -1,0 +1,6 @@
+OpenShift Details
+Username	RHT_OCP4_DEV_USER	cfhndw
+Password	RHT_OCP4_DEV_PASSWORD	9cab524ff1a941a4be27
+API Endpoint	RHT_OCP4_MASTER_API	https://api.na410.prod.nextcle.com:6443
+Console Web Application		https://console-openshift-console.apps.na410.prod.nextcle.com
+Cluster Id		acd2c4f9-1fcc-4d1e-868c-63f2ddcf749b
